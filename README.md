@@ -1,12 +1,12 @@
 # FirebaseCRUD
-
+<table style="width:100%">
  <tr>
     <th><img src="https://user-images.githubusercontent.com/38391658/111061057-82a4d480-84cb-11eb-8741-948aaeb06688.png" alt="get data" width="108" height="228"> </th>
     <th><img src="https://user-images.githubusercontent.com/38391658/111061058-85072e80-84cb-11eb-9bc3-230c4a79cdd1.png" alt="get data" width="108" height="228"></th>
     <th><img src="https://user-images.githubusercontent.com/38391658/111061059-859fc500-84cb-11eb-84fa-50e4b338827c.png" alt="get data" width="108" height="228"></th>
   </tr>
 <hr> 
-
+</table>
 
 
 <img src="https://user-images.githubusercontent.com/38391658/111061060-86385b80-84cb-11eb-906d-51539014d041.png" alt="get data" width="108" height="228">
